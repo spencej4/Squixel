@@ -7,8 +7,7 @@ This app is an image search engine. Api endpoint is Unsplash.com.
 * This App is deployed to Firebaase.
 * Link: https://uw-js-capstone.firebaseapp.com/
 
-* Github repo:
-* Link: https://github.com/spencej4/squixel
+* Github repo: https://github.com/spencej4/squixel
 
 ## Built With
 
